@@ -1,0 +1,77 @@
+<!-- Hero Section -->
+<section class="hero">
+  <h1>Welcome to Anum Presbyterian Senior High (ANSEC)</h1>
+  <p>Shaping minds, building futures.</p>
+  <h2>Upon The Mountain <br> We Are Pearched To Be Seen.</h2>
+</section>
+
+<!-- Content Section -->
+<section class="content">
+  <article class="school-profile">
+
+    <!-- Section 1: Introduction & Setting -->
+    <h2>Introduction & Setting</h2>
+    <p>
+      Anum Presbyterian Senior High School (ANSEC), founded in 1897, is one of Ghana’s oldest and most respected second-cycle institutions. Nestled in the serene mountain ridges of Anum in the Asuogyaman District of the Eastern Region, the school overlooks the majestic Volta Lake. This unique setting provides not only breathtaking views but also a tranquil environment that inspires learning, discipline, and reflection. The school’s motto, “Discipline and Excellence,” captures its essence.
+    </p>
+    <p>
+      From its earliest days, ANSEC was more than a school. It was a community hub, a place where values were instilled, and where young men and women were prepared not only for examinations but for life. The Presbyterian philosophy emphasized discipline, service, and integrity — qualities that remain central to ANSEC’s identity today.
+    </p>
+
+    <!-- Section 2: Academic Programs -->
+    <h2>Academic Programs</h2>
+    <p>
+      ANSEC offers diverse academic programs including General Science, General Arts, Business, Agriculture, Home Economics, and Visual Arts. Each program is designed to provide students with both theoretical knowledge and practical skills. Science students conduct experiments in modern laboratories, Arts students engage in debates and creative writing, Business students learn accounting and entrepreneurship, Agriculture students gain hands-on experience on school farms, Home Economics students showcase talents in catering and fashion, and Visual Arts students express creativity through exhibitions.
+    </p>
+
+    <!-- Section 3: Boarding Houses -->
+    <h2>Boarding Houses</h2>
+    <p>
+      ANSEC’s boarding houses — Ramseyer, Volta, Kumi, Lochman, and Okoh — are more than dormitories; they are families within the larger school community. Each house instills values of loyalty, discipline, and camaraderie. House competitions in academics, sports, and culture foster healthy rivalry and build lifelong friendships. Each house has its own traditions, songs, and mottos, creating a sense of identity and belonging that lasts a lifetime.
+    </p>
+
+    <!-- Section 4: Extracurricular Life -->
+    <h2>Extracurricular Life</h2>
+    <p>
+      Education at ANSEC extends far beyond the classroom. Sports are central, with football, volleyball, basketball, and athletics bringing pride to the school. Cultural festivals celebrate Ghana’s heritage through drama, dance, and poetry. The Music Department inspires creativity through choir and band performances. The Media Team documents school life, while the ICT Lab and STEM Team foster innovation in technology and science. These activities nurture talents, build confidence, and prepare students for life beyond school.
+    </p>
+
+    <!-- Section 5: Staff & Leadership -->
+    <h2>Staff & Leadership</h2>
+    <p>
+      ANSEC’s success is sustained by visionary headmasters, dedicated management, inspiring prefects, and hardworking teachers. Headmasters have guided the school through growth and modernization. Management ensures smooth operations. Prefects serve as role models and leaders among students. Teachers are mentors who bring passion and creativity to their classrooms, shaping both knowledge and character. Together, they embody the school’s values of discipline, excellence, and service.
+    </p>
+
+    <!-- Section 6: Alumni & Legacy -->
+    <h2>Alumni & Legacy</h2>
+    <p>
+      The legacy of ANSEC is written in the lives of its alumni. Graduates have excelled in medicine, law, engineering, education, business, politics, and the arts. Alumni associations provide mentorship, scholarships, and support for infrastructure projects. Their achievements inspire current students, while their continued engagement strengthens the bond between past and present. ANSEC’s alumni are living proof of the school’s transformative power.
+    </p>
+
+    <!-- Section 7: Community Impact -->
+    <h2>Community Impact</h2>
+    <p>
+      ANSEC is a pillar of Anum and the Eastern Region. It provides quality education, employment, and economic growth. Cultural festivals preserve heritage, while community service projects address local needs. Alumni investments strengthen the local economy. The school’s influence extends nationally, producing leaders who contribute to Ghana’s development. For families, ANSEC represents hope and opportunity, embodying the aspirations of generations.
+    </p>
+
+    <!-- Section 8: Vision for the Future -->
+    <h2>Vision for the Future</h2>
+    <p>
+      ANSEC envisions a future of digital transformation, sustainability, and global competitiveness. Plans include upgrading ICT infrastructure, introducing coding and robotics, and integrating renewable energy solutions. Partnerships with universities and organizations will provide resources and opportunities. Infrastructure development will modernize classrooms, dormitories, and laboratories. Holistic education will continue to nurture creativity, innovation, and empathy. ANSEC aims to be among Ghana’s top schools, preparing students to excel globally while remaining rooted in discipline and service.
+    </p>
+
+    <!-- Section 9: Encouragement & Inspiration -->
+    <h2>Encouragement & Inspiration</h2>
+    <p>
+      ANSEC is a sanctuary of hope and a cradle of excellence. To students: you are part of a legacy that stretches back over a century. To parents: ANSEC is a partner in your dream for your children. To alumni: carry forward the values of discipline, excellence, and service. To staff: continue to inspire and innovate. ANSEC is a reminder that education transforms lives, instills resilience, and prepares individuals to contribute meaningfully to society.
+    </p>
+
+    <!-- Section 10: Conclusion -->
+    <h2>Conclusion</h2>
+    <p>
+      ANSEC is more than an institution; it is a legacy. Founded in 1897, it has stood the test of time, educating generations, nurturing leaders, and transforming communities. Today, it stands as a beacon of excellence in Ghana, combining tradition with innovation, discipline with creativity, and local identity with global vision. Welcome to ANSEC — a school with a legacy, a vision, and a future. Welcome to a community of discipline, excellence, and service. Welcome to a journey of discovery, growth, and transformation.
+    </p>
+
+  </article>
+</section>
+
